@@ -3,6 +3,9 @@ Le détecteur de gaz est basé sur une carte de type ESP8266 (NodeMCU). Cette ca
 Matériel utilisé:
 
   Carte NodeMCU V3
+  
   Détecteur de gaz MQ-2
+  
   Buzzer Actif
+  
   Quelques LEDs et Résistors
